@@ -1,0 +1,8 @@
+opencv
+re
+email.mime
+smtplib
+os
+time
+pickle
+face_recognition
