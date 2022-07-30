@@ -7,3 +7,5 @@ There are five main scripts/files in this repo.
 4. mockcsvcreator.py -- hold the necessary functions for creating and editing csv files  
 5. realtimefacerecogmodel.py -- the file that actually runs to capture images  
 Exciting learning experience to be honest
+
+
